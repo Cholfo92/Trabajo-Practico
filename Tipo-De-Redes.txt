@@ -1,0 +1,8 @@
+Conozco 4 tipos de redes segun el area que ocupan:
+	*Redes Wan (Wide Area Network): son redes de grandes extenciones, normalente llegan a varias regiones.
+
+	*Redes Man (Metropolitan area Network): Este tipo de redes son mas sentralizadas, son las que vemos en areas metropolitanas, cuando una empresa conecta varios edificios 						(sedes), entre ellos.
+
+	*Redes Lan (Local Area Network): Este tipo de red es mucho mas pequeña, hace referencia esclusivamente a la red que podemos tener dentro de un piso o mismo edificio.
+
+	*Redes Pan (Personal Area Network): Estas redes son aun mas pequeñas referiendose exclusivamente a los dispositivos que se interconectan entre ellos a una distancia de 					    4 o 5 Mts como mucho (auriculares, smartwatchs, camaras del tipo GoPro, etc.)
